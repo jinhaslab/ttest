@@ -1,0 +1,14 @@
+h1:part-review-of-data-visualization (PART*) Review of Data visualization
+h1:reivew-of-r-visualization-for-statistical-results Reivew of R visualization for statistical results
+h2:basic-plot-with-r Basic plot with R
+h2:ggplot-basic ggplot basic
+h3:axis axis
+h3:layer-geom_x layer, geom_x()
+h3:geom_point geom_point()
+h3:geom_smooth geom_smooth()
+h3:faceting faceting
+h3:geom_bar geom_bar()
+h3:geom_density-geom_histogram geom_density() , geom_histogram()
+h3:geom_boxplot geom_boxplot()
+h3:d-plot 3d plot
+
